@@ -9,7 +9,10 @@ public class Grupal8 {
         usuarios    =   new String[100][11];
 
         do{
-            System.out.println("Para Ingresar un usuario pulse 1, para ver los registros pulse 2, para terminar la ejecución pulse 3");
+            System.out.println("==============Menu=============");
+            System.out.println("Para Ingresar un usuario pulse 1.");
+            System.out.println("Para ver los registros pulse 2.");
+            System.out.println("Para terminar la ejecución pulse 3.");
             accion = lectura.nextInt();
             if(accion==1){
                 try{
