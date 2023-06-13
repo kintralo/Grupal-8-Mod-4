@@ -1,6 +1,6 @@
 package dia_10;
 
-import java.util.Scanner;i
+import java.util.Scanner;
 public class Idividual_16 {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
