@@ -1,4 +1,4 @@
-package Grupal-8-Mod-4. Grupal-11;
+package grupal11;
 
 public class Grupal_11 {
     public static void main(String[] args) {
@@ -15,18 +15,16 @@ public class Grupal_11 {
                 "scelerisque, diam tortor iaculis arcu, nec tincidunt diam eros sed urna.Ut at consequat enim." +
                 "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Donec sit " +
                 "amet ultricies dui.Donec aliquet rhoncus velit et sollicitudin.";
-        int ola;
-        ola = 10;
+
+        
+        int ola = 10;
         for (int i = 0; i < ola; i++) {
 
             System.out.println("Valor: " + (i * i));
         }
-        // Esto es un comentario
-        // demasiado grande
-        // para que esté en una
-        // sola línea
-        System.out.println("El mensaje " + " es" + mensaje);
-        System.out.println(" El valor de la constante es: " + valorConstante);
+        // Esto es un comentario demasiado grande para que esté en una sola línea
+        System.out.println("El mensaje es" + mensaje);
+        System.out.println("El valor de la constante es: " + valorConstante);
     }
 
 }
