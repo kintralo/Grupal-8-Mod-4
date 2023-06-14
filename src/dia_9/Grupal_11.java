@@ -1,5 +1,7 @@
 package dia_9;
-
+/**
+ * @author Juan Vásquez
+ */
 public class Grupal_11 {
     public static void main(String[] args) {
         final boolean valorConstante = false;

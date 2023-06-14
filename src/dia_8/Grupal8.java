@@ -1,6 +1,9 @@
 package dia_8;
 
 import java.util.Scanner;
+/**
+ * @author Juan Vásquez
+ */
 public class Grupal8 {
     public static void main(String[] args){
         String usuarios[][];
