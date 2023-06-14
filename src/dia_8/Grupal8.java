@@ -1,10 +1,20 @@
 package dia_8;
 
 import java.util.Scanner;
+
 /**
- * @author Juan Vásquez
+ * @author Juan Vásquez, Andrés Tapia, Sebastián Araya, Víctor Briso.
+ * @version 1.0
  */
 public class Grupal8 {
+    /**
+     * @param iteral: Índice del array de Usuarios.
+     * @param accion: Permite elegir la opción del usuario.
+     * @param perfil: Permite elegir los perfiles a ingresar.
+     * @param lectura: Permite leer los datos ingresados por el usuario.
+     * @param usuarios: Matriz que guarda los datos del usuario.
+     *
+     */
     public static void main(String[] args){
         String usuarios[][];
         int iteral, accion, perfil;

@@ -1,8 +1,16 @@
 package dia_9;
+
 /**
- * @author Juan Vásquez
+ * @author Juan Vásquez, Andrés Tapia, Sebastián Araya, Víctor Briso.
+ * @version 1.0
  */
 public class Grupal_11 {
+    /**
+     * @param valorConstante: Variable booleana que está configurada como falso.
+     * @param mensaje: Frase genérica que se muestra.
+     * @param ola: Variable n umericxa que cuenta hasta 10 veces
+     * @param   i: Variable que parte desde cero.
+     */
     public static void main(String[] args) {
         final boolean valorConstante = false;
         String mensaje = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Donec facilisis est ac ante viverra, " +
