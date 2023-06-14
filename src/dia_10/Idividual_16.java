@@ -2,7 +2,14 @@ package dia_10;
 
 import java.util.Scanner;
 
+/**
+ * @author Juan Vásquez
+ */
 public class Idividual_16 {
+    /***
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
         String password = "pass123";
