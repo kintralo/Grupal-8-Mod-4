@@ -1,5 +1,6 @@
 public class EjercicioGrupal_9 {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+    public static void menu(String[] args) {
+
+        System.out.println("Menú Grupal 9");
     }
 }

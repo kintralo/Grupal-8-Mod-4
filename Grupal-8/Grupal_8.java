@@ -2,8 +2,10 @@ package dia_8;
 
 import java.util.Scanner;
 
+
 /**
- * @author Juan Vásquez
+ * @author Juan Vásquez, Andrés Tapia, Sebastián Araya, Víctor Briso.
+ * @version 1.0
  */
 public class Grupal8 {
     public static void main(String[] args) {
